@@ -1,0 +1,13 @@
+﻿Assignment on 2nd Module:
+
+Note: For all the programs listed below, students are free to use any systems such as employee, student, shapes and many more to define the C++ programming concepts. All questions are mandatory.
+
+    1 Write a C++ program to include the concept of this pointer and references
+    2 Explain with a C++ program the concepts of dynamic memory allocation along with function overloading features.
+    3 Explain the concepts of constructor overloading and pointer to functions
+    4 Illustrate a C++ program to define the concepts operator overloading with and without using friend functions.
+    5 Write a C++ program to define the concept of pointers to objects, passing reference to functions and return by reference.
+    6 Write a C++ program to define operator overloading and pointer to functions
+    7 Write a C++ program to demonstrate the concepts of default arguments.
+    8 Write a C++ program to defining both the friend class and friend functions
+
