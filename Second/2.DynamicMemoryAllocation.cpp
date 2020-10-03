@@ -15,7 +15,7 @@ int main(){
   int *where= new int;
   cout<<"Come on, give us a number!  ";
   cin>>*where;
-  cout<<"Number stored: "<<*where<<"Pointer Address :"<<where<<"  "<<&where;
+  cout<<"Number stored : "<<*where<<"\nPointer's Address : "<<where<<"\nAddress of the variable in heap memory : "<<&where<<"\n\n";
   return 0;
 
 }
