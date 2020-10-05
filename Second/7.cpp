@@ -24,6 +24,7 @@ int main() {
   subtract(33,12);
   cout<<"subtract(7); :: ";
 	subtract(7);
-  cout<<"Notice how the same subtract function does the subtraction even though no second param is mentioned\nDefault value for subtraction is considered to be 4 here\n\n\n";
+  cout<<"Notice how the same subtract function does the subtraction even though no second param is mentioned\nDefault value for subtraction is considered to be 4 here\n\n";
 	return 0;
+  cout<<"Thank you!\n\n";
 }
